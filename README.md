@@ -1,5 +1,5 @@
 # DeShal
-Decompile marshal compatible for python2/python3
+Decompile marshal compatible for python2 or python3
 
 # Cara penginstallan
 ```
