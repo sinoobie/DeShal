@@ -15,5 +15,5 @@ python2 -m pip install uncompyle6
 
 # cara penggunaan
 <b>Usage: ```python deshal.py``` or ```python2 deshal.py```</b><br>
-etss tapi sebelum itu kamu harus memasukan binnary code nya di file ```marcode.py``` sesuai dengan python type berapa yang mau kamu decompile mueheheh<br>
+etss tapi sebelum itu kamu harus memasukan bytes code nya di file ```marcode.py``` sesuai dengan python type berapa yang mau kamu decompile mueheheh<br>
 <b>Lihat repostory <a href='https://github.com/KANG-NEWBIE?tab=repositories'> lainnya</a></b>
