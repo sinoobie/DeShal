@@ -1,4 +1,4 @@
-#Python 3.7.X
+#Python 3.7.X and Python 2.7.X
 #Author: KANG-NEWBIE ©2019
 from uncompyle6.main import decompile
 import marshal,time,sys,os,marcode
